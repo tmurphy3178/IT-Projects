@@ -8,5 +8,5 @@ Windows 10 = Done
 
 Windows 11 = Incomplete
 
-  Current Issues
+  - Current Issues
     
