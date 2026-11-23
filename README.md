@@ -8,5 +8,7 @@ Windows 10 = Done
 
 Windows 11 = Incomplete
 
-  - Current Issues
-    
+   Related Issues
+====================
+    - TPM version 2.0
+    - UEFI
